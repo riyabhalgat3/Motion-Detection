@@ -2,15 +2,6 @@
 
 This project implements a simple motion detection system using Python and OpenCV. It detects motion by comparing frame differences from a video stream (webcam or file) and highlights the areas with movement using contours.
 
-## Project Structure
-
-MotionDetectionProject/
-│
-├── motion_detector.py # Main script for motion detection
-├── requirements.txt # Dependencies list
-├── images/ # Folder to store output screenshots
-└── README.md # Project documentation
-
 ## How It Works
 
 1. **Video Input**:
