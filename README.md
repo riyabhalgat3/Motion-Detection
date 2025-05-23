@@ -23,11 +23,6 @@ This project implements a simple motion detection system using Python and OpenCV
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b0652a0f-4f8d-4388-b200-b96d2b76a7ff" />
 
-**Example Output:**
-![Motion Detection Example](images/motion_output.png)
-
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.x
