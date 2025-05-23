@@ -21,6 +21,8 @@ This project implements a simple motion detection system using Python and OpenCV
 
 ## Output Screenshots
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b0652a0f-4f8d-4388-b200-b96d2b76a7ff" />
+
 **Example Output:**
 ![Motion Detection Example](images/motion_output.png)
 
@@ -36,10 +38,5 @@ Install the required packages using:
 ```bash
 pip install -r requirements.txt
 
-Running the Script
 
-To use your webcam:
-python motion_detector.py
 
-To use a video file:
-python motion_detector.py --video path/to/your/video.mp4
