@@ -19,9 +19,9 @@ This project implements a simple motion detection system using Python and OpenCV
    - Displays the original frame with contours drawn around moving objects.
    - Optionally, logs the motion events or saves the processed video.
 
-## Output Screenshots
+## Output Screenshot
 
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b0652a0f-4f8d-4388-b200-b96d2b76a7ff" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/b0652a0f-4f8d-4388-b200-b96d2b76a7ff" />
 
 ### Prerequisites
 
